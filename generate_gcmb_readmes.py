@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 from dotenv import load_dotenv
+
+from utils import sanitize_topic
+
 load_dotenv()
 
 import os
@@ -64,7 +67,7 @@ def generate_main_readme(measurements: List[Dict[str, Any]]):
     content += "List of rivers:\n\n"
     
     for shortname, longname in sorted_rivers:
-        content += f"* [{longname}](./{shortname})\n"
+        content += f"* [{longname}](./{sanitize_topic(shortname)})\n"
     
     # Write README file
     readme_path = GCMB_DIR / "README.md"
@@ -102,7 +105,7 @@ def generate_river_readmes(measurements: List[Dict[str, Any]]):
         water_longname = river_data["longname"]
         
         # Create directory for river
-        river_dir = GCMB_DIR / water_shortname
+        river_dir = GCMB_DIR / sanitize_topic(water_shortname)
         ensure_directory(river_dir)
         
         # Sort stations by longname
@@ -117,7 +120,8 @@ def generate_river_readmes(measurements: List[Dict[str, Any]]):
         
         for station_shortname, station_data in sorted_stations:
             station_longname = station_data["longname"]
-            content += f"* {station_longname}: <Value topic=\"{GCMB_ORG}/{GCMB_PROJECT}/{water_shortname}/{station_shortname}/measurementValue\"/> cm\n"
+            topic = sanitize_topic(f"{GCMB_ORG}/{GCMB_PROJECT}/{water_shortname}/{station_shortname}/measurementValue")
+            content += f"* {station_longname}: <Value topic=\"{topic}\"/> cm\n"
         
         # Write README file
         readme_path = river_dir / "README.md"
@@ -153,26 +157,27 @@ def generate_station_readmes(measurements: List[Dict[str, Any]]):
     # Generate README for each station
     for (water_shortname, station_shortname), station_data in stations.items():
         water_longname = station_data["water_longname"]
-        station_longname = station_data["station_longname"]
         latitude = station_data["latitude"]
         longitude = station_data["longitude"]
         
         # Create directory for station
-        station_dir = GCMB_DIR / water_shortname / station_shortname
+        station_dir = GCMB_DIR / sanitize_topic(water_shortname) / sanitize_topic(station_shortname)
         ensure_directory(station_dir)
         
         # Generate README content
         content = f"# {water_longname} - {station_shortname}\n\n"
+
+        station_topic = sanitize_topic(f"{GCMB_ORG}/{GCMB_PROJECT}/{water_shortname}/{station_shortname}")
         
         content += "## Current Measurement\n\n"
-        content += f"Current measurement: <Value topic=\"{GCMB_ORG}/{GCMB_PROJECT}/{water_shortname}/{station_shortname}/measurementValue\"/> cm\n\n"
+        content += f"Current measurement: <Value topic=\"{station_topic}/measurementValue\"/> cm\n\n"
         
         content += "## Time Series\n\n"
-        content += f"<TimeSeries topic=\"{GCMB_ORG}/{GCMB_PROJECT}/{water_shortname}/{station_shortname}/measurementValue\" period=\"week\" />\n\n"
+        content += f"<TimeSeries topic=\"{station_topic}/measurementValue\" period=\"week\" />\n\n"
         
         content += "## Location\n\n"
         content += "<WorldMap>\n"
-        content += f"  <Marker lat=\"{latitude}\" lon=\"{longitude}\" labelTopic=\"{GCMB_ORG}/{GCMB_PROJECT}/{water_shortname}/{station_shortname}\" />\n"
+        content += f"  <Marker lat=\"{latitude}\" lon=\"{longitude}\" labelTopic=\"{station_topic}\" />\n"
         content += "</WorldMap>\n"
         
         # Write README file

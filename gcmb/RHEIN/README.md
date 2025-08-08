@@ -22,7 +22,7 @@ List of measuring points:
 * MAINZ: <Value topic="rivers/pegel-online/RHEIN/MAINZ/measurementValue"/> cm
 * MANNHEIM: <Value topic="rivers/pegel-online/RHEIN/MANNHEIM/measurementValue"/> cm
 * MAXAU: <Value topic="rivers/pegel-online/RHEIN/MAXAU/measurementValue"/> cm
-* NEUWIED STADT: <Value topic="rivers/pegel-online/RHEIN/Neuwied Stadt/measurementValue"/> cm
+* NEUWIED STADT: <Value topic="rivers/pegel-online/RHEIN/Neuwied_Stadt/measurementValue"/> cm
 * NIERSTEIN-OPPENHEIM: <Value topic="rivers/pegel-online/RHEIN/NIERSTEIN-OPPENHEIM/measurementValue"/> cm
 * OBERWINTER: <Value topic="rivers/pegel-online/RHEIN/OBERWINTER/measurementValue"/> cm
 * OESTRICH: <Value topic="rivers/pegel-online/RHEIN/OESTRICH/measurementValue"/> cm
@@ -32,7 +32,7 @@ List of measuring points:
 * REES: <Value topic="rivers/pegel-online/RHEIN/REES/measurementValue"/> cm
 * RHEINWEILER: <Value topic="rivers/pegel-online/RHEIN/RHEINWEILER/measurementValue"/> cm
 * RUST: <Value topic="rivers/pegel-online/RHEIN/RUST/measurementValue"/> cm
-* SANKT GOAR: <Value topic="rivers/pegel-online/RHEIN/SANKT GOAR/measurementValue"/> cm
+* SANKT GOAR: <Value topic="rivers/pegel-online/RHEIN/SANKT_GOAR/measurementValue"/> cm
 * SPEYER: <Value topic="rivers/pegel-online/RHEIN/SPEYER/measurementValue"/> cm
 * WESEL: <Value topic="rivers/pegel-online/RHEIN/WESEL/measurementValue"/> cm
 * WORMS: <Value topic="rivers/pegel-online/RHEIN/WORMS/measurementValue"/> cm

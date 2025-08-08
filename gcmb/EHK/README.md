@@ -6,7 +6,7 @@ List of measuring points:
 * DETERSHAGEN: <Value topic="rivers/pegel-online/EHK/DETERSHAGEN/measurementValue"/> cm
 * GENTHIN: <Value topic="rivers/pegel-online/EHK/GENTHIN/measurementValue"/> cm
 * KADE: <Value topic="rivers/pegel-online/EHK/KADE/measurementValue"/> cm
-* WUSTERWITZ OP: <Value topic="rivers/pegel-online/EHK/WUSTERWITZ OP/measurementValue"/> cm
-* WUSTERWITZ UP: <Value topic="rivers/pegel-online/EHK/WUSTERWITZ UP/measurementValue"/> cm
-* ZERBEN OP: <Value topic="rivers/pegel-online/EHK/ZERBEN OP/measurementValue"/> cm
-* ZERBEN UP: <Value topic="rivers/pegel-online/EHK/ZERBEN UP/measurementValue"/> cm
+* WUSTERWITZ OP: <Value topic="rivers/pegel-online/EHK/WUSTERWITZ_OP/measurementValue"/> cm
+* WUSTERWITZ UP: <Value topic="rivers/pegel-online/EHK/WUSTERWITZ_UP/measurementValue"/> cm
+* ZERBEN OP: <Value topic="rivers/pegel-online/EHK/ZERBEN_OP/measurementValue"/> cm
+* ZERBEN UP: <Value topic="rivers/pegel-online/EHK/ZERBEN_UP/measurementValue"/> cm

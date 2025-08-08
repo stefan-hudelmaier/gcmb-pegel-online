@@ -3,7 +3,7 @@
 List of measuring points:
 
 * EISENHÜTTENSTADT: <Value topic="rivers/pegel-online/ODER/EISENHÜTTENSTADT/measurementValue"/> cm
-* FRANKFURT1 (ODER): <Value topic="rivers/pegel-online/ODER/FRANKFURT1 (ODER)/measurementValue"/> cm
+* FRANKFURT1 (ODER): <Value topic="rivers/pegel-online/ODER/FRANKFURT1_(ODER)/measurementValue"/> cm
 * HOHENSAATEN-FINOW: <Value topic="rivers/pegel-online/ODER/HOHENSAATEN-FINOW/measurementValue"/> cm
 * KIENITZ: <Value topic="rivers/pegel-online/ODER/KIENITZ/measurementValue"/> cm
 * KIETZ: <Value topic="rivers/pegel-online/ODER/KIETZ/measurementValue"/> cm

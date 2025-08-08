@@ -1,4 +1,7 @@
 from dotenv import load_dotenv
+
+from utils import sanitize_topic
+
 load_dotenv()
 
 import os
@@ -100,7 +103,7 @@ class Adapter:
             station_shortname = measurement["station_shortname"]
 
             # Base topic for this measurement
-            measurement_base_topic = f"{self.base_topic}/{water_shortname}/{station_shortname}"
+            measurement_base_topic = sanitize_topic(f"{self.base_topic}/{water_shortname}/{station_shortname}")
 
             # Publish measurement value
             if measurement["measurement_value"] is not None:
