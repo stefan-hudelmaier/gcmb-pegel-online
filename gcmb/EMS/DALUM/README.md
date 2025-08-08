@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/EMS/DALUM/measurementValu
 ## Location
 
 <WorldMap>
-  <Marker lat="52.595602903463565" lon="7.24853010166303" labelTopic="rivers/pegel-online/EMS/DALUM" />
+  <Marker lat="52.595602903463565" lon="7.24853010166303" labelTopic="rivers/pegel-online/EMS/DALUM/measurementValue" />
 </WorldMap>

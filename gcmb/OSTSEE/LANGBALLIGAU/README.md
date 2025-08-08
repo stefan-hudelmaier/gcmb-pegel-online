@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/OSTSEE/LANGBALLIGAU/measu
 ## Location
 
 <WorldMap>
-  <Marker lat="54.823267291869904" lon="9.654140992315282" labelTopic="rivers/pegel-online/OSTSEE/LANGBALLIGAU" />
+  <Marker lat="54.823267291869904" lon="9.654140992315282" labelTopic="rivers/pegel-online/OSTSEE/LANGBALLIGAU/measurementValue" />
 </WorldMap>

@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/MLK/VELSDORF/measurementV
 ## Location
 
 <WorldMap>
-  <Marker lat="52.409163905408484" lon="11.272650337117922" labelTopic="rivers/pegel-online/MLK/VELSDORF" />
+  <Marker lat="52.409163905408484" lon="11.272650337117922" labelTopic="rivers/pegel-online/MLK/VELSDORF/measurementValue" />
 </WorldMap>

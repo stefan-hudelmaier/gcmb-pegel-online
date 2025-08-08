@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/FULDA/ROTENBURG/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="51.00376751649595" lon="9.72044974360598" labelTopic="rivers/pegel-online/FULDA/ROTENBURG" />
+  <Marker lat="51.00376751649595" lon="9.72044974360598" labelTopic="rivers/pegel-online/FULDA/ROTENBURG/measurementValue" />
 </WorldMap>

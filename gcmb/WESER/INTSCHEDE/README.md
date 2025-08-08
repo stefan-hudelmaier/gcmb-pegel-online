@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WESER/INTSCHEDE/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="52.96416868773003" lon="9.12579880541581" labelTopic="rivers/pegel-online/WESER/INTSCHEDE" />
+  <Marker lat="52.96416868773003" lon="9.12579880541581" labelTopic="rivers/pegel-online/WESER/INTSCHEDE/measurementValue" />
 </WorldMap>

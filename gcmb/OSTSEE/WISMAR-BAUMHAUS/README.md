@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/OSTSEE/WISMAR-BAUMHAUS/me
 ## Location
 
 <WorldMap>
-  <Marker lat="53.89876160549276" lon="11.457917784463794" labelTopic="rivers/pegel-online/OSTSEE/WISMAR-BAUMHAUS" />
+  <Marker lat="53.89876160549276" lon="11.457917784463794" labelTopic="rivers/pegel-online/OSTSEE/WISMAR-BAUMHAUS/measurementValue" />
 </WorldMap>

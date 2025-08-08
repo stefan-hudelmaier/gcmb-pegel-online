@@ -2,4 +2,4 @@
 
 List of measuring points:
 
-* POTSDAM: <Value topic="rivers/pegel-online/PHv/POTSDAM/measurementValue"/> cm
+* [POTSDAM](./POTSDAM): <Value topic="rivers/pegel-online/PHv/POTSDAM/measurementValue"/> cm

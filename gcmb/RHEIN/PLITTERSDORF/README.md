@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/PLITTERSDORF/measur
 ## Location
 
 <WorldMap>
-  <Marker lat="48.88596742211288" lon="8.1359273095474" labelTopic="rivers/pegel-online/RHEIN/PLITTERSDORF" />
+  <Marker lat="48.88596742211288" lon="8.1359273095474" labelTopic="rivers/pegel-online/RHEIN/PLITTERSDORF/measurementValue" />
 </WorldMap>

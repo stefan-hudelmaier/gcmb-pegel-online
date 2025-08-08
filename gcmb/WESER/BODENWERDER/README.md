@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WESER/BODENWERDER/measure
 ## Location
 
 <WorldMap>
-  <Marker lat="51.973727486464455" lon="9.515736239582566" labelTopic="rivers/pegel-online/WESER/BODENWERDER" />
+  <Marker lat="51.973727486464455" lon="9.515736239582566" labelTopic="rivers/pegel-online/WESER/BODENWERDER/measurementValue" />
 </WorldMap>

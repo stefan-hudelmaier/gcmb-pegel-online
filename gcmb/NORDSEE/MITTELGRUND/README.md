@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/NORDSEE/MITTELGRUND/measu
 ## Location
 
 <WorldMap>
-  <Marker lat="53.94207510920859" lon="8.63619733230772" labelTopic="rivers/pegel-online/NORDSEE/MITTELGRUND" />
+  <Marker lat="53.94207510920859" lon="8.63619733230772" labelTopic="rivers/pegel-online/NORDSEE/MITTELGRUND/measurementValue" />
 </WorldMap>

@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/BONN/measurementVal
 ## Location
 
 <WorldMap>
-  <Marker lat="50.73639800887676" lon="7.108045442593695" labelTopic="rivers/pegel-online/RHEIN/BONN" />
+  <Marker lat="50.73639800887676" lon="7.108045442593695" labelTopic="rivers/pegel-online/RHEIN/BONN/measurementValue" />
 </WorldMap>

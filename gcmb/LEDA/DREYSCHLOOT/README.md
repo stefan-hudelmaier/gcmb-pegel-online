@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/LEDA/DREYSCHLOOT/measurem
 ## Location
 
 <WorldMap>
-  <Marker lat="53.17799362841171" lon="7.66914003439416" labelTopic="rivers/pegel-online/LEDA/DREYSCHLOOT" />
+  <Marker lat="53.17799362841171" lon="7.66914003439416" labelTopic="rivers/pegel-online/LEDA/DREYSCHLOOT/measurementValue" />
 </WorldMap>

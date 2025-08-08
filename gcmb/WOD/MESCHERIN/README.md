@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WOD/MESCHERIN/measurement
 ## Location
 
 <WorldMap>
-  <Marker lat="53.250879163661" lon="14.436433022361552" labelTopic="rivers/pegel-online/WOD/MESCHERIN" />
+  <Marker lat="53.250879163661" lon="14.436433022361552" labelTopic="rivers/pegel-online/WOD/MESCHERIN/measurementValue" />
 </WorldMap>

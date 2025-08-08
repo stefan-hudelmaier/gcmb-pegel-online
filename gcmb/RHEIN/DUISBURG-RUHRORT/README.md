@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/DUISBURG-RUHRORT/me
 ## Location
 
 <WorldMap>
-  <Marker lat="51.45534495315814" lon="6.7279266718157364" labelTopic="rivers/pegel-online/RHEIN/DUISBURG-RUHRORT" />
+  <Marker lat="51.45534495315814" lon="6.7279266718157364" labelTopic="rivers/pegel-online/RHEIN/DUISBURG-RUHRORT/measurementValue" />
 </WorldMap>

@@ -2,9 +2,9 @@
 
 List of measuring points:
 
-* BUTTELERHÖRNE: <Value topic="rivers/pegel-online/HUNTE/BUTTELERHÖRNE/measurementValue"/> cm
-* ELSFLETH OHRT: <Value topic="rivers/pegel-online/HUNTE/ELSFLETH_OHRT/measurementValue"/> cm
-* HOLLERSIEL: <Value topic="rivers/pegel-online/HUNTE/HOLLERSIEL/measurementValue"/> cm
-* HUNTEBRÜCK: <Value topic="rivers/pegel-online/HUNTE/HUNTEBRÜCK/measurementValue"/> cm
-* OLDENBURG-DRIELAKE: <Value topic="rivers/pegel-online/HUNTE/OLDENBURG-DRIELAKE/measurementValue"/> cm
-* REITHÖRNE: <Value topic="rivers/pegel-online/HUNTE/REITHÖRNE/measurementValue"/> cm
+* [BUTTELERHÖRNE](./BUTTELERHÖRNE): <Value topic="rivers/pegel-online/HUNTE/BUTTELERHOERNE/measurementValue"/> cm
+* [ELSFLETH OHRT](./ELSFLETH OHRT): <Value topic="rivers/pegel-online/HUNTE/ELSFLETH-OHRT/measurementValue"/> cm
+* [HOLLERSIEL](./HOLLERSIEL): <Value topic="rivers/pegel-online/HUNTE/HOLLERSIEL/measurementValue"/> cm
+* [HUNTEBRÜCK](./HUNTEBRÜCK): <Value topic="rivers/pegel-online/HUNTE/HUNTEBRUECK/measurementValue"/> cm
+* [OLDENBURG-DRIELAKE](./OLDENBURG-DRIELAKE): <Value topic="rivers/pegel-online/HUNTE/OLDENBURG-DRIELAKE/measurementValue"/> cm
+* [REITHÖRNE](./REITHÖRNE): <Value topic="rivers/pegel-online/HUNTE/REITHOERNE/measurementValue"/> cm

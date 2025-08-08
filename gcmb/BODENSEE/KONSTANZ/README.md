@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/BODENSEE/KONSTANZ/measure
 ## Location
 
 <WorldMap>
-  <Marker lat="47.660750139099356" lon="9.18103908795411" labelTopic="rivers/pegel-online/BODENSEE/KONSTANZ" />
+  <Marker lat="47.660750139099356" lon="9.18103908795411" labelTopic="rivers/pegel-online/BODENSEE/KONSTANZ/measurementValue" />
 </WorldMap>

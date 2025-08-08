@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/MAIN/KLEINHEUBACH/measure
 ## Location
 
 <WorldMap>
-  <Marker lat="49.71613768227772" lon="9.225243640833266" labelTopic="rivers/pegel-online/MAIN/KLEINHEUBACH" />
+  <Marker lat="49.71613768227772" lon="9.225243640833266" labelTopic="rivers/pegel-online/MAIN/KLEINHEUBACH/measurementValue" />
 </WorldMap>

@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/HOW/FRIEDRICHSTHAL/measur
 ## Location
 
 <WorldMap>
-  <Marker lat="53.155890453671304" lon="14.357228944290402" labelTopic="rivers/pegel-online/HOW/FRIEDRICHSTHAL" />
+  <Marker lat="53.155890453671304" lon="14.357228944290402" labelTopic="rivers/pegel-online/HOW/FRIEDRICHSTHAL/measurementValue" />
 </WorldMap>

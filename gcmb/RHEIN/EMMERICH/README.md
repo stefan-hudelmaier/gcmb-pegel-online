@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/EMMERICH/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="51.829251607500346" lon="6.245594383748813" labelTopic="rivers/pegel-online/RHEIN/EMMERICH" />
+  <Marker lat="51.829251607500346" lon="6.245594383748813" labelTopic="rivers/pegel-online/RHEIN/EMMERICH/measurementValue" />
 </WorldMap>

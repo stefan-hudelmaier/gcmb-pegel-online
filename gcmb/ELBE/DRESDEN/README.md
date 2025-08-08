@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/DRESDEN/measurementV
 ## Location
 
 <WorldMap>
-  <Marker lat="51.054459765598125" lon="13.738831783620384" labelTopic="rivers/pegel-online/ELBE/DRESDEN" />
+  <Marker lat="51.054459765598125" lon="13.738831783620384" labelTopic="rivers/pegel-online/ELBE/DRESDEN/measurementValue" />
 </WorldMap>

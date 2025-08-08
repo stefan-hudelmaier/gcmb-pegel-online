@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/MAGDEBURG-BUCKAU/mea
 ## Location
 
 <WorldMap>
-  <Marker lat="52.119271087620774" lon="11.634986074196533" labelTopic="rivers/pegel-online/ELBE/MAGDEBURG-BUCKAU" />
+  <Marker lat="52.119271087620774" lon="11.634986074196533" labelTopic="rivers/pegel-online/ELBE/MAGDEBURG-BUCKAU/measurementValue" />
 </WorldMap>

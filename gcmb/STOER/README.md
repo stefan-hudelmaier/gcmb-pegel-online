@@ -1,0 +1,8 @@
+# STÖR
+
+List of measuring points:
+
+* [BREITENBERG](./BREITENBERG): <Value topic="rivers/pegel-online/STOER/BREITENBERG/measurementValue"/> cm
+* [GRÖNHUDE](./GRÖNHUDE): <Value topic="rivers/pegel-online/STOER/GROENHUDE/measurementValue"/> cm
+* [ITZEHOE HAFEN](./ITZEHOE HAFEN): <Value topic="rivers/pegel-online/STOER/ITZEHOE-HAFEN/measurementValue"/> cm
+* [STÖR-SPERRWERK BP](./STÖR-SPERRWERK BP): <Value topic="rivers/pegel-online/STOER/STOER-SPERRWERK-BP/measurementValue"/> cm

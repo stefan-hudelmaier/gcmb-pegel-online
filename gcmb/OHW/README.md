@@ -2,15 +2,15 @@
 
 List of measuring points:
 
-* BISCHOFSWERDER OP: <Value topic="rivers/pegel-online/OHW/BISCHOFSWERDER_OP/measurementValue"/> cm
-* BISCHOFSWERDER UP: <Value topic="rivers/pegel-online/OHW/BISCHOFSWERDER_UP/measurementValue"/> cm
-* BREDEREICHE OP: <Value topic="rivers/pegel-online/OHW/BREDEREICHE_OP/measurementValue"/> cm
-* BREDEREICHE UP: <Value topic="rivers/pegel-online/OHW/BREDEREICHE_UP/measurementValue"/> cm
-* FÜRSTENBERG OP: <Value topic="rivers/pegel-online/OHW/FÜRSTENBERG_OP/measurementValue"/> cm
-* FÜRSTENBERG UP: <Value topic="rivers/pegel-online/OHW/FÜRSTENBERG_UP/measurementValue"/> cm
-* VOSSWINKEL OP: <Value topic="rivers/pegel-online/OHW/VOßWINKEL_OP/measurementValue"/> cm
-* VOSSWINKEL UP: <Value topic="rivers/pegel-online/OHW/VOßWINKEL_UP/measurementValue"/> cm
-* WESENBERG OP: <Value topic="rivers/pegel-online/OHW/WESENBERG_OP/measurementValue"/> cm
-* WESENBERG UP: <Value topic="rivers/pegel-online/OHW/WESENBERG_UP/measurementValue"/> cm
-* ZEHDENICK OP: <Value topic="rivers/pegel-online/OHW/ZEHDENICK_OP/measurementValue"/> cm
-* ZEHDENICK UP: <Value topic="rivers/pegel-online/OHW/ZEHDENICK_UP/measurementValue"/> cm
+* [BISCHOFSWERDER OP](./BISCHOFSWERDER OP): <Value topic="rivers/pegel-online/OHW/BISCHOFSWERDER-OP/measurementValue"/> cm
+* [BISCHOFSWERDER UP](./BISCHOFSWERDER UP): <Value topic="rivers/pegel-online/OHW/BISCHOFSWERDER-UP/measurementValue"/> cm
+* [BREDEREICHE OP](./BREDEREICHE OP): <Value topic="rivers/pegel-online/OHW/BREDEREICHE-OP/measurementValue"/> cm
+* [BREDEREICHE UP](./BREDEREICHE UP): <Value topic="rivers/pegel-online/OHW/BREDEREICHE-UP/measurementValue"/> cm
+* [FÜRSTENBERG OP](./FÜRSTENBERG OP): <Value topic="rivers/pegel-online/OHW/FUERSTENBERG-OP/measurementValue"/> cm
+* [FÜRSTENBERG UP](./FÜRSTENBERG UP): <Value topic="rivers/pegel-online/OHW/FUERSTENBERG-UP/measurementValue"/> cm
+* [VOSSWINKEL OP](./VOßWINKEL OP): <Value topic="rivers/pegel-online/OHW/VOssWINKEL-OP/measurementValue"/> cm
+* [VOSSWINKEL UP](./VOßWINKEL UP): <Value topic="rivers/pegel-online/OHW/VOssWINKEL-UP/measurementValue"/> cm
+* [WESENBERG OP](./WESENBERG OP): <Value topic="rivers/pegel-online/OHW/WESENBERG-OP/measurementValue"/> cm
+* [WESENBERG UP](./WESENBERG UP): <Value topic="rivers/pegel-online/OHW/WESENBERG-UP/measurementValue"/> cm
+* [ZEHDENICK OP](./ZEHDENICK OP): <Value topic="rivers/pegel-online/OHW/ZEHDENICK-OP/measurementValue"/> cm
+* [ZEHDENICK UP](./ZEHDENICK UP): <Value topic="rivers/pegel-online/OHW/ZEHDENICK-UP/measurementValue"/> cm

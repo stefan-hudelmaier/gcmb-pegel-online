@@ -2,5 +2,5 @@
 
 List of measuring points:
 
-* EICHHORST OP: <Value topic="rivers/pegel-online/WbG/EICHHORST_OP/measurementValue"/> cm
-* EICHHORST UP: <Value topic="rivers/pegel-online/WbG/EICHHORST_UP/measurementValue"/> cm
+* [EICHHORST OP](./EICHHORST OP): <Value topic="rivers/pegel-online/WbG/EICHHORST-OP/measurementValue"/> cm
+* [EICHHORST UP](./EICHHORST UP): <Value topic="rivers/pegel-online/WbG/EICHHORST-UP/measurementValue"/> cm

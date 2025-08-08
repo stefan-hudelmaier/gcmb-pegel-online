@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/KAUB/measurementVal
 ## Location
 
 <WorldMap>
-  <Marker lat="50.08543848618328" lon="7.764961728401987" labelTopic="rivers/pegel-online/RHEIN/KAUB" />
+  <Marker lat="50.08543848618328" lon="7.764961728401987" labelTopic="rivers/pegel-online/RHEIN/KAUB/measurementValue" />
 </WorldMap>

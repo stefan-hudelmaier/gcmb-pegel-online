@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/DONAU/ACHLEITEN/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="48.58204681130871" lon="13.503184735677362" labelTopic="rivers/pegel-online/DONAU/ACHLEITEN" />
+  <Marker lat="48.58204681130871" lon="13.503184735677362" labelTopic="rivers/pegel-online/DONAU/ACHLEITEN/measurementValue" />
 </WorldMap>

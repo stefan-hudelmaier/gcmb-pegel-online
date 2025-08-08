@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WESER/DRAKENBURG/measurem
 ## Location
 
 <WorldMap>
-  <Marker lat="52.69309901184134" lon="9.225581438347866" labelTopic="rivers/pegel-online/WESER/DRAKENBURG" />
+  <Marker lat="52.69309901184134" lon="9.225581438347866" labelTopic="rivers/pegel-online/WESER/DRAKENBURG/measurementValue" />
 </WorldMap>

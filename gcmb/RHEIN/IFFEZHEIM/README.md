@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/IFFEZHEIM/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="48.852149448081505" lon="8.116901503461628" labelTopic="rivers/pegel-online/RHEIN/IFFEZHEIM" />
+  <Marker lat="48.852149448081505" lon="8.116901503461628" labelTopic="rivers/pegel-online/RHEIN/IFFEZHEIM/measurementValue" />
 </WorldMap>

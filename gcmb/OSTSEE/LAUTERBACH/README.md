@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/OSTSEE/LAUTERBACH/measure
 ## Location
 
 <WorldMap>
-  <Marker lat="54.3416033935843" lon="13.499696400314125" labelTopic="rivers/pegel-online/OSTSEE/LAUTERBACH" />
+  <Marker lat="54.3416033935843" lon="13.499696400314125" labelTopic="rivers/pegel-online/OSTSEE/LAUTERBACH/measurementValue" />
 </WorldMap>

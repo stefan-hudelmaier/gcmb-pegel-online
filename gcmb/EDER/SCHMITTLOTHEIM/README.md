@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/EDER/SCHMITTLOTHEIM/measu
 ## Location
 
 <WorldMap>
-  <Marker lat="51.15572586907657" lon="8.897957630761978" labelTopic="rivers/pegel-online/EDER/SCHMITTLOTHEIM" />
+  <Marker lat="51.15572586907657" lon="8.897957630761978" labelTopic="rivers/pegel-online/EDER/SCHMITTLOTHEIM/measurementValue" />
 </WorldMap>

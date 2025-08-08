@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WESER/KARLSHAFEN/measurem
 ## Location
 
 <WorldMap>
-  <Marker lat="51.64798619601527" lon="9.438681427807627" labelTopic="rivers/pegel-online/WESER/KARLSHAFEN" />
+  <Marker lat="51.64798619601527" lon="9.438681427807627" labelTopic="rivers/pegel-online/WESER/KARLSHAFEN/measurementValue" />
 </WorldMap>

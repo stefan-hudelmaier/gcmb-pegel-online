@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WESER/NORDENHAM/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="53.4644968622905" lon="8.4880524159755" labelTopic="rivers/pegel-online/WESER/NORDENHAM" />
+  <Marker lat="53.4644968622905" lon="8.4880524159755" labelTopic="rivers/pegel-online/WESER/NORDENHAM/measurementValue" />
 </WorldMap>

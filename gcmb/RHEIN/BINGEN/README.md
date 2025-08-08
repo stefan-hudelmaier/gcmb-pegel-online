@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/BINGEN/measurementV
 ## Location
 
 <WorldMap>
-  <Marker lat="49.97034213591973" lon="7.899667963397104" labelTopic="rivers/pegel-online/RHEIN/BINGEN" />
+  <Marker lat="49.97034213591973" lon="7.899667963397104" labelTopic="rivers/pegel-online/RHEIN/BINGEN/measurementValue" />
 </WorldMap>

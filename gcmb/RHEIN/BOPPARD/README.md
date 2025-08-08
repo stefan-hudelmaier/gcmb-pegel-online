@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/BOPPARD/measurement
 ## Location
 
 <WorldMap>
-  <Marker lat="50.23291375755348" lon="7.592132313690253" labelTopic="rivers/pegel-online/RHEIN/BOPPARD" />
+  <Marker lat="50.23291375755348" lon="7.592132313690253" labelTopic="rivers/pegel-online/RHEIN/BOPPARD/measurementValue" />
 </WorldMap>

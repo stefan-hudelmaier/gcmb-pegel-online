@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/OSPH/KARNIN/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="53.84366487308738" lon="13.858494243912038" labelTopic="rivers/pegel-online/OSPH/KARNIN" />
+  <Marker lat="53.84366487308738" lon="13.858494243912038" labelTopic="rivers/pegel-online/OSPH/KARNIN/measurementValue" />
 </WorldMap>

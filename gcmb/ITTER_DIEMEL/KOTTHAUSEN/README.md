@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ITTER_DIEMEL/KOTTHAUSEN/m
 ## Location
 
 <WorldMap>
-  <Marker lat="51.36355845840011" lon="8.682785657143638" labelTopic="rivers/pegel-online/ITTER_DIEMEL/KOTTHAUSEN" />
+  <Marker lat="51.36355845840011" lon="8.682785657143638" labelTopic="rivers/pegel-online/ITTER_DIEMEL/KOTTHAUSEN/measurementValue" />
 </WorldMap>

@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/MOSEL/PERL/measurementVal
 ## Location
 
 <WorldMap>
-  <Marker lat="49.47257536053503" lon="6.369034818740492" labelTopic="rivers/pegel-online/MOSEL/PERL" />
+  <Marker lat="49.47257536053503" lon="6.369034818740492" labelTopic="rivers/pegel-online/MOSEL/PERL/measurementValue" />
 </WorldMap>

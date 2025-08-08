@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/BREISACH/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="48.04321052572933" lon="7.572569952756944" labelTopic="rivers/pegel-online/RHEIN/BREISACH" />
+  <Marker lat="48.04321052572933" lon="7.572569952756944" labelTopic="rivers/pegel-online/RHEIN/BREISACH/measurementValue" />
 </WorldMap>

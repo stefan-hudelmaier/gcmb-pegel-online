@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/RIESA/measurementVal
 ## Location
 
 <WorldMap>
-  <Marker lat="51.31148159700113" lon="13.29334052168511" labelTopic="rivers/pegel-online/ELBE/RIESA" />
+  <Marker lat="51.31148159700113" lon="13.29334052168511" labelTopic="rivers/pegel-online/ELBE/RIESA/measurementValue" />
 </WorldMap>

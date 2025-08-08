@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/STADERSAND/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="53.62972930548137" lon="9.526602277838382" labelTopic="rivers/pegel-online/ELBE/STADERSAND" />
+  <Marker lat="53.62972930548137" lon="9.526602277838382" labelTopic="rivers/pegel-online/ELBE/STADERSAND/measurementValue" />
 </WorldMap>

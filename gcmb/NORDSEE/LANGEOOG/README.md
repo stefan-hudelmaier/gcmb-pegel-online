@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/NORDSEE/LANGEOOG/measurem
 ## Location
 
 <WorldMap>
-  <Marker lat="53.72323317438252" lon="7.501653628801436" labelTopic="rivers/pegel-online/NORDSEE/LANGEOOG" />
+  <Marker lat="53.72323317438252" lon="7.501653628801436" labelTopic="rivers/pegel-online/NORDSEE/LANGEOOG/measurementValue" />
 </WorldMap>

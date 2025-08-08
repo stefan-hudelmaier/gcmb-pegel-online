@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/LESUM/WASSERHORST/measure
 ## Location
 
 <WorldMap>
-  <Marker lat="53.16282547839709" lon="8.718207902429285" labelTopic="rivers/pegel-online/LESUM/WASSERHORST" />
+  <Marker lat="53.16282547839709" lon="8.718207902429285" labelTopic="rivers/pegel-online/LESUM/WASSERHORST/measurementValue" />
 </WorldMap>

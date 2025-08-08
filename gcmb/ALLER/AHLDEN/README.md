@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ALLER/AHLDEN/measurementV
 ## Location
 
 <WorldMap>
-  <Marker lat="52.76243127485539" lon="9.57088073000537" labelTopic="rivers/pegel-online/ALLER/AHLDEN" />
+  <Marker lat="52.76243127485539" lon="9.57088073000537" labelTopic="rivers/pegel-online/ALLER/AHLDEN/measurementValue" />
 </WorldMap>

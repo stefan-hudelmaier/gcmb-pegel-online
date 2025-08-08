@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/PHv/POTSDAM/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="52.3998866995299" lon="13.072071020001967" labelTopic="rivers/pegel-online/PHv/POTSDAM" />
+  <Marker lat="52.3998866995299" lon="13.072071020001967" labelTopic="rivers/pegel-online/PHv/POTSDAM/measurementValue" />
 </WorldMap>

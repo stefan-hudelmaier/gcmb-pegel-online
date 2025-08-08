@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/ELSTER/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="51.82685067126091" lon="12.827256703317088" labelTopic="rivers/pegel-online/ELBE/ELSTER" />
+  <Marker lat="51.82685067126091" lon="12.827256703317088" labelTopic="rivers/pegel-online/ELBE/ELSTER/measurementValue" />
 </WorldMap>

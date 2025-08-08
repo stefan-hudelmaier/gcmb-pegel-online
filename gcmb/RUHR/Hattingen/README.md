@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RUHR/Hattingen/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="51.39974995669543" lon="7.161034055228364" labelTopic="rivers/pegel-online/RUHR/Hattingen" />
+  <Marker lat="51.39974995669543" lon="7.161034055228364" labelTopic="rivers/pegel-online/RUHR/Hattingen/measurementValue" />
 </WorldMap>

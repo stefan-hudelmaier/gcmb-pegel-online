@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/PIRNA/measurementVal
 ## Location
 
 <WorldMap>
-  <Marker lat="50.96458461840771" lon="13.929755188361451" labelTopic="rivers/pegel-online/ELBE/PIRNA" />
+  <Marker lat="50.96458461840771" lon="13.929755188361451" labelTopic="rivers/pegel-online/ELBE/PIRNA/measurementValue" />
 </WorldMap>

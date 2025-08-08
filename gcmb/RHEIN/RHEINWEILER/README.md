@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/RHEINWEILER/measure
 ## Location
 
 <WorldMap>
-  <Marker lat="47.71105898079764" lon="7.529274874710162" labelTopic="rivers/pegel-online/RHEIN/RHEINWEILER" />
+  <Marker lat="47.71105898079764" lon="7.529274874710162" labelTopic="rivers/pegel-online/RHEIN/RHEINWEILER/measurementValue" />
 </WorldMap>

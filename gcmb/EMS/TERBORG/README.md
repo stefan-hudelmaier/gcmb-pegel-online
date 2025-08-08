@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/EMS/TERBORG/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="53.29270399689946" lon="7.396102412436918" labelTopic="rivers/pegel-online/EMS/TERBORG" />
+  <Marker lat="53.29270399689946" lon="7.396102412436918" labelTopic="rivers/pegel-online/EMS/TERBORG/measurementValue" />
 </WorldMap>

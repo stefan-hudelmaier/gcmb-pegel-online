@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WESER/HANN.MUENDEN/measur
 ## Location
 
 <WorldMap>
-  <Marker lat="51.425788565456386" lon="9.640916558380354" labelTopic="rivers/pegel-online/WESER/HANN.MUENDEN" />
+  <Marker lat="51.425788565456386" lon="9.640916558380354" labelTopic="rivers/pegel-online/WESER/HANN.MUENDEN/measurementValue" />
 </WorldMap>

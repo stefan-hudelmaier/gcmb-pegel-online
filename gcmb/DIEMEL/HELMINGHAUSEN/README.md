@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/DIEMEL/HELMINGHAUSEN/meas
 ## Location
 
 <WorldMap>
-  <Marker lat="51.381475229426265" lon="8.730780201102268" labelTopic="rivers/pegel-online/DIEMEL/HELMINGHAUSEN" />
+  <Marker lat="51.381475229426265" lon="8.730780201102268" labelTopic="rivers/pegel-online/DIEMEL/HELMINGHAUSEN/measurementValue" />
 </WorldMap>

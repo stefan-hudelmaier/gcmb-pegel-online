@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/MAIN/ASTHEIM/measurementV
 ## Location
 
 <WorldMap>
-  <Marker lat="49.85840951491546" lon="10.217655657401854" labelTopic="rivers/pegel-online/MAIN/ASTHEIM" />
+  <Marker lat="49.85840951491546" lon="10.217655657401854" labelTopic="rivers/pegel-online/MAIN/ASTHEIM/measurementValue" />
 </WorldMap>

@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/OSTSEE/BARTH/measurementV
 ## Location
 
 <WorldMap>
-  <Marker lat="54.37122057673123" lon="12.723220564867594" labelTopic="rivers/pegel-online/OSTSEE/BARTH" />
+  <Marker lat="54.37122057673123" lon="12.723220564867594" labelTopic="rivers/pegel-online/OSTSEE/BARTH/measurementValue" />
 </WorldMap>

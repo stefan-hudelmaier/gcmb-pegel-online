@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/PINNAU/UETERSEN/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="53.67819255188962" lon="9.677083802370527" labelTopic="rivers/pegel-online/PINNAU/UETERSEN" />
+  <Marker lat="53.67819255188962" lon="9.677083802370527" labelTopic="rivers/pegel-online/PINNAU/UETERSEN/measurementValue" />
 </WorldMap>

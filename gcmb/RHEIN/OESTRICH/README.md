@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/OESTRICH/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="50.0028663802692" lon="8.030047855742517" labelTopic="rivers/pegel-online/RHEIN/OESTRICH" />
+  <Marker lat="50.0028663802692" lon="8.030047855742517" labelTopic="rivers/pegel-online/RHEIN/OESTRICH/measurementValue" />
 </WorldMap>

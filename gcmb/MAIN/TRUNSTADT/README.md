@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/MAIN/TRUNSTADT/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="49.92969594275757" lon="10.755205231371262" labelTopic="rivers/pegel-online/MAIN/TRUNSTADT" />
+  <Marker lat="49.92969594275757" lon="10.755205231371262" labelTopic="rivers/pegel-online/MAIN/TRUNSTADT/measurementValue" />
 </WorldMap>

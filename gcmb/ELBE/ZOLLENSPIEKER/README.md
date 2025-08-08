@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/ZOLLENSPIEKER/measur
 ## Location
 
 <WorldMap>
-  <Marker lat="53.39870872800965" lon="10.185374358546778" labelTopic="rivers/pegel-online/ELBE/ZOLLENSPIEKER" />
+  <Marker lat="53.39870872800965" lon="10.185374358546778" labelTopic="rivers/pegel-online/ELBE/ZOLLENSPIEKER/measurementValue" />
 </WorldMap>

@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/REES/measurementVal
 ## Location
 
 <WorldMap>
-  <Marker lat="51.75695267540021" lon="6.395692160228798" labelTopic="rivers/pegel-online/RHEIN/REES" />
+  <Marker lat="51.75695267540021" lon="6.395692160228798" labelTopic="rivers/pegel-online/RHEIN/REES/measurementValue" />
 </WorldMap>

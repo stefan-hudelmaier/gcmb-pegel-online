@@ -2,7 +2,7 @@
 
 List of measuring points:
 
-* KANNENBURG OP: <Value topic="rivers/pegel-online/TlG/KANNENBURG_OP/measurementValue"/> cm
-* KANNENBURG UP: <Value topic="rivers/pegel-online/TlG/KANNENBURG_UP/measurementValue"/> cm
-* TEMPLIN OP: <Value topic="rivers/pegel-online/TlG/TEMPLIN_OP/measurementValue"/> cm
-* TEMPLIN UP: <Value topic="rivers/pegel-online/TlG/TEMPLIN_UP/measurementValue"/> cm
+* [KANNENBURG OP](./KANNENBURG OP): <Value topic="rivers/pegel-online/TlG/KANNENBURG-OP/measurementValue"/> cm
+* [KANNENBURG UP](./KANNENBURG UP): <Value topic="rivers/pegel-online/TlG/KANNENBURG-UP/measurementValue"/> cm
+* [TEMPLIN OP](./TEMPLIN OP): <Value topic="rivers/pegel-online/TlG/TEMPLIN-OP/measurementValue"/> cm
+* [TEMPLIN UP](./TEMPLIN UP): <Value topic="rivers/pegel-online/TlG/TEMPLIN-UP/measurementValue"/> cm

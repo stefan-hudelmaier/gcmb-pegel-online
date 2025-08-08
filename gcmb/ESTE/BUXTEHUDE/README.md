@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ESTE/BUXTEHUDE/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="53.48044963271465" lon="9.703368910151168" labelTopic="rivers/pegel-online/ESTE/BUXTEHUDE" />
+  <Marker lat="53.48044963271465" lon="9.703368910151168" labelTopic="rivers/pegel-online/ESTE/BUXTEHUDE/measurementValue" />
 </WorldMap>

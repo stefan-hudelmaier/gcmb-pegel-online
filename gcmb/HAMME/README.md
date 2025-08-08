@@ -2,4 +2,4 @@
 
 List of measuring points:
 
-* RITTERHUDE: <Value topic="rivers/pegel-online/HAMME/RITTERHUDE/measurementValue"/> cm
+* [RITTERHUDE](./RITTERHUDE): <Value topic="rivers/pegel-online/HAMME/RITTERHUDE/measurementValue"/> cm

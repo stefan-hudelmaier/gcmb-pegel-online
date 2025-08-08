@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/DEK/RHEDE/measurementValu
 ## Location
 
 <WorldMap>
-  <Marker lat="53.072417921102975" lon="7.286979017850521" labelTopic="rivers/pegel-online/DEK/RHEDE" />
+  <Marker lat="53.072417921102975" lon="7.286979017850521" labelTopic="rivers/pegel-online/DEK/RHEDE/measurementValue" />
 </WorldMap>

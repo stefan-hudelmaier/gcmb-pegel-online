@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/HAMME/RITTERHUDE/measurem
 ## Location
 
 <WorldMap>
-  <Marker lat="53.18192800328082" lon="8.763345493242253" labelTopic="rivers/pegel-online/HAMME/RITTERHUDE" />
+  <Marker lat="53.18192800328082" lon="8.763345493242253" labelTopic="rivers/pegel-online/HAMME/RITTERHUDE/measurementValue" />
 </WorldMap>

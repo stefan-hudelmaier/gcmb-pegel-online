@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/UHW/ALBERTSHEIM/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="52.65594497856946" lon="12.333710535124784" labelTopic="rivers/pegel-online/UHW/ALBERTSHEIM" />
+  <Marker lat="52.65594497856946" lon="12.333710535124784" labelTopic="rivers/pegel-online/UHW/ALBERTSHEIM/measurementValue" />
 </WorldMap>

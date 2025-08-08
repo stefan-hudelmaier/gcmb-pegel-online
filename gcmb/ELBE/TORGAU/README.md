@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/TORGAU/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="51.55368454231443" lon="13.01013060185494" labelTopic="rivers/pegel-online/ELBE/TORGAU" />
+  <Marker lat="51.55368454231443" lon="13.01013060185494" labelTopic="rivers/pegel-online/ELBE/TORGAU/measurementValue" />
 </WorldMap>

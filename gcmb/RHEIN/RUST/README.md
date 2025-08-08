@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/RUST/measurementVal
 ## Location
 
 <WorldMap>
-  <Marker lat="48.25746915866461" lon="7.682372588415027" labelTopic="rivers/pegel-online/RHEIN/RUST" />
+  <Marker lat="48.25746915866461" lon="7.682372588415027" labelTopic="rivers/pegel-online/RHEIN/RUST/measurementValue" />
 </WorldMap>

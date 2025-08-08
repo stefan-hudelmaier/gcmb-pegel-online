@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/MOSEL/RUWER/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="49.7830516860776" lon="6.704233541878355" labelTopic="rivers/pegel-online/MOSEL/RUWER" />
+  <Marker lat="49.7830516860776" lon="6.704233541878355" labelTopic="rivers/pegel-online/MOSEL/RUWER/measurementValue" />
 </WorldMap>

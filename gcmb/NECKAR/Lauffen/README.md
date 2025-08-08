@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/NECKAR/Lauffen/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="49.07233144962649" lon="9.159786627616935" labelTopic="rivers/pegel-online/NECKAR/Lauffen" />
+  <Marker lat="49.07233144962649" lon="9.159786627616935" labelTopic="rivers/pegel-online/NECKAR/Lauffen/measurementValue" />
 </WorldMap>

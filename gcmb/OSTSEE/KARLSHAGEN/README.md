@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/OSTSEE/KARLSHAGEN/measure
 ## Location
 
 <WorldMap>
-  <Marker lat="54.10786012437913" lon="13.807622038541595" labelTopic="rivers/pegel-online/OSTSEE/KARLSHAGEN" />
+  <Marker lat="54.10786012437913" lon="13.807622038541595" labelTopic="rivers/pegel-online/OSTSEE/KARLSHAGEN/measurementValue" />
 </WorldMap>

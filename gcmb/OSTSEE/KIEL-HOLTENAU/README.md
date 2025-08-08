@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/OSTSEE/KIEL-HOLTENAU/meas
 ## Location
 
 <WorldMap>
-  <Marker lat="54.37208668229111" lon="10.157049612180776" labelTopic="rivers/pegel-online/OSTSEE/KIEL-HOLTENAU" />
+  <Marker lat="54.37208668229111" lon="10.157049612180776" labelTopic="rivers/pegel-online/OSTSEE/KIEL-HOLTENAU/measurementValue" />
 </WorldMap>

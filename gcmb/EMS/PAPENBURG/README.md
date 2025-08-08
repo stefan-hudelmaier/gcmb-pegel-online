@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/EMS/PAPENBURG/measurement
 ## Location
 
 <WorldMap>
-  <Marker lat="53.108190811003816" lon="7.365594761853153" labelTopic="rivers/pegel-online/EMS/PAPENBURG" />
+  <Marker lat="53.108190811003816" lon="7.365594761853153" labelTopic="rivers/pegel-online/EMS/PAPENBURG/measurementValue" />
 </WorldMap>

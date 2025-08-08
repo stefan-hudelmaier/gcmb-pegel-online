@@ -2,5 +2,5 @@
 
 List of measuring points:
 
-* PAREY EP: <Value topic="rivers/pegel-online/PVK/PAREY_EP/measurementValue"/> cm
-* PAREY UP: <Value topic="rivers/pegel-online/PVK/PAREY_UP/measurementValue"/> cm
+* [PAREY EP](./PAREY EP): <Value topic="rivers/pegel-online/PVK/PAREY-EP/measurementValue"/> cm
+* [PAREY UP](./PAREY UP): <Value topic="rivers/pegel-online/PVK/PAREY-UP/measurementValue"/> cm

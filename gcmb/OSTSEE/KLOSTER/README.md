@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/OSTSEE/KLOSTER/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="54.584766443253756" lon="13.111362240678364" labelTopic="rivers/pegel-online/OSTSEE/KLOSTER" />
+  <Marker lat="54.584766443253756" lon="13.111362240678364" labelTopic="rivers/pegel-online/OSTSEE/KLOSTER/measurementValue" />
 </WorldMap>

@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/GEESTHACHT/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="53.42650514468064" lon="10.374521506119242" labelTopic="rivers/pegel-online/ELBE/GEESTHACHT" />
+  <Marker lat="53.42650514468064" lon="10.374521506119242" labelTopic="rivers/pegel-online/ELBE/GEESTHACHT/measurementValue" />
 </WorldMap>

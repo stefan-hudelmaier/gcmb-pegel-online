@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/WESEL/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="51.6461427479827" lon="6.606820258595948" labelTopic="rivers/pegel-online/RHEIN/WESEL" />
+  <Marker lat="51.6461427479827" lon="6.606820258595948" labelTopic="rivers/pegel-online/RHEIN/WESEL/measurementValue" />
 </WorldMap>

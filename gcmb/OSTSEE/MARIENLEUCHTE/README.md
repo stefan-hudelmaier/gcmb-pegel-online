@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/OSTSEE/MARIENLEUCHTE/meas
 ## Location
 
 <WorldMap>
-  <Marker lat="54.49663026314798" lon="11.238874338140052" labelTopic="rivers/pegel-online/OSTSEE/MARIENLEUCHTE" />
+  <Marker lat="54.49663026314798" lon="11.238874338140052" labelTopic="rivers/pegel-online/OSTSEE/MARIENLEUCHTE/measurementValue" />
 </WorldMap>

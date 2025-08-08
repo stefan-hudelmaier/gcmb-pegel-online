@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/PEENE/JARMEN/measurementV
 ## Location
 
 <WorldMap>
-  <Marker lat="53.92875185210584" lon="13.342282249314387" labelTopic="rivers/pegel-online/PEENE/JARMEN" />
+  <Marker lat="53.92875185210584" lon="13.342282249314387" labelTopic="rivers/pegel-online/PEENE/JARMEN/measurementValue" />
 </WorldMap>

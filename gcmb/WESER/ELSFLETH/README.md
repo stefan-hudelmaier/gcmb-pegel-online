@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WESER/ELSFLETH/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="53.26394606206959" lon="8.481417298527578" labelTopic="rivers/pegel-online/WESER/ELSFLETH" />
+  <Marker lat="53.26394606206959" lon="8.481417298527578" labelTopic="rivers/pegel-online/WESER/ELSFLETH/measurementValue" />
 </WorldMap>

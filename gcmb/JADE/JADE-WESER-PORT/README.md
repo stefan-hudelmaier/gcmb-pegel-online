@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/JADE/JADE-WESER-PORT/meas
 ## Location
 
 <WorldMap>
-  <Marker lat="53.60204393336538" lon="8.149052000490585" labelTopic="rivers/pegel-online/JADE/JADE-WESER-PORT" />
+  <Marker lat="53.60204393336538" lon="8.149052000490585" labelTopic="rivers/pegel-online/JADE/JADE-WESER-PORT/measurementValue" />
 </WorldMap>

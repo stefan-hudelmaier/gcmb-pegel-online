@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/COSWIG/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="51.87694050837316" lon="12.454011602418161" labelTopic="rivers/pegel-online/ELBE/COSWIG" />
+  <Marker lat="51.87694050837316" lon="12.454011602418161" labelTopic="rivers/pegel-online/ELBE/COSWIG/measurementValue" />
 </WorldMap>

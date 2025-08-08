@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/DONAU/ERLAU/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="48.567381563713134" lon="13.586812740786126" labelTopic="rivers/pegel-online/DONAU/ERLAU" />
+  <Marker lat="48.567381563713134" lon="13.586812740786126" labelTopic="rivers/pegel-online/DONAU/ERLAU/measurementValue" />
 </WorldMap>

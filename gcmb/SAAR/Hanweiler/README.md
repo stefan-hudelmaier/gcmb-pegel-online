@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/SAAR/Hanweiler/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="49.11432802728783" lon="7.065613291302502" labelTopic="rivers/pegel-online/SAAR/Hanweiler" />
+  <Marker lat="49.11432802728783" lon="7.065613291302502" labelTopic="rivers/pegel-online/SAAR/Hanweiler/measurementValue" />
 </WorldMap>

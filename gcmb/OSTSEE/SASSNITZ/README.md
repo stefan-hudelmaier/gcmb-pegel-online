@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/OSTSEE/SASSNITZ/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="54.50829305906584" lon="13.636651355609894" labelTopic="rivers/pegel-online/OSTSEE/SASSNITZ" />
+  <Marker lat="54.50829305906584" lon="13.636651355609894" labelTopic="rivers/pegel-online/OSTSEE/SASSNITZ/measurementValue" />
 </WorldMap>

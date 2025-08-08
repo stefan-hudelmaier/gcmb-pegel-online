@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/HUNTE/OLDENBURG-DRIELAKE/
 ## Location
 
 <WorldMap>
-  <Marker lat="53.140229115278174" lon="8.234080885188323" labelTopic="rivers/pegel-online/HUNTE/OLDENBURG-DRIELAKE" />
+  <Marker lat="53.140229115278174" lon="8.234080885188323" labelTopic="rivers/pegel-online/HUNTE/OLDENBURG-DRIELAKE/measurementValue" />
 </WorldMap>

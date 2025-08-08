@@ -2,5 +2,5 @@
 
 List of measuring points:
 
-* KLEINMACHNOW OP: <Value topic="rivers/pegel-online/TeK/KLEINMACHNOW_OP/measurementValue"/> cm
-* KLEINMACHNOW UP: <Value topic="rivers/pegel-online/TeK/KLEINMACHNOW_UP/measurementValue"/> cm
+* [KLEINMACHNOW OP](./KLEINMACHNOW OP): <Value topic="rivers/pegel-online/TeK/KLEINMACHNOW-OP/measurementValue"/> cm
+* [KLEINMACHNOW UP](./KLEINMACHNOW UP): <Value topic="rivers/pegel-online/TeK/KLEINMACHNOW-UP/measurementValue"/> cm

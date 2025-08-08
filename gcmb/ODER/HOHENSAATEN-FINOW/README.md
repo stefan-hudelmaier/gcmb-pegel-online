@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ODER/HOHENSAATEN-FINOW/me
 ## Location
 
 <WorldMap>
-  <Marker lat="52.864737532429494" lon="14.141124764012263" labelTopic="rivers/pegel-online/ODER/HOHENSAATEN-FINOW" />
+  <Marker lat="52.864737532429494" lon="14.141124764012263" labelTopic="rivers/pegel-online/ODER/HOHENSAATEN-FINOW/measurementValue" />
 </WorldMap>

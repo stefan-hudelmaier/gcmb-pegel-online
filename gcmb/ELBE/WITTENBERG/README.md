@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/WITTENBERG/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="51.8565291449134" lon="12.646310954043884" labelTopic="rivers/pegel-online/ELBE/WITTENBERG" />
+  <Marker lat="51.8565291449134" lon="12.646310954043884" labelTopic="rivers/pegel-online/ELBE/WITTENBERG/measurementValue" />
 </WorldMap>

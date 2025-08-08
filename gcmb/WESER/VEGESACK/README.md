@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WESER/VEGESACK/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="53.169406123669866" lon="8.619533310970207" labelTopic="rivers/pegel-online/WESER/VEGESACK" />
+  <Marker lat="53.169406123669866" lon="8.619533310970207" labelTopic="rivers/pegel-online/WESER/VEGESACK/measurementValue" />
 </WorldMap>

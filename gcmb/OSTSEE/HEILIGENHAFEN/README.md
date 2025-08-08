@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/OSTSEE/HEILIGENHAFEN/meas
 ## Location
 
 <WorldMap>
-  <Marker lat="54.372959365395786" lon="11.005664168144426" labelTopic="rivers/pegel-online/OSTSEE/HEILIGENHAFEN" />
+  <Marker lat="54.372959365395786" lon="11.005664168144426" labelTopic="rivers/pegel-online/OSTSEE/HEILIGENHAFEN/measurementValue" />
 </WorldMap>

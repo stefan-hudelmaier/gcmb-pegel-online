@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/UHW/KETZIN/measurementVal
 ## Location
 
 <WorldMap>
-  <Marker lat="52.463152929451944" lon="12.856783971314366" labelTopic="rivers/pegel-online/UHW/KETZIN" />
+  <Marker lat="52.463152929451944" lon="12.856783971314366" labelTopic="rivers/pegel-online/UHW/KETZIN/measurementValue" />
 </WorldMap>

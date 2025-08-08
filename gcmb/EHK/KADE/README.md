@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/EHK/KADE/measurementValue
 ## Location
 
 <WorldMap>
-  <Marker lat="52.39704872511039" lon="12.279351110358599" labelTopic="rivers/pegel-online/EHK/KADE" />
+  <Marker lat="52.39704872511039" lon="12.279351110358599" labelTopic="rivers/pegel-online/EHK/KADE/measurementValue" />
 </WorldMap>

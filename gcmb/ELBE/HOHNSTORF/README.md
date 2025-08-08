@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/HOHNSTORF/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="53.3662640634696" lon="10.558835867409144" labelTopic="rivers/pegel-online/ELBE/HOHNSTORF" />
+  <Marker lat="53.3662640634696" lon="10.558835867409144" labelTopic="rivers/pegel-online/ELBE/HOHNSTORF/measurementValue" />
 </WorldMap>

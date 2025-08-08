@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/OSTE/BELUM/measurementVal
 ## Location
 
 <WorldMap>
-  <Marker lat="53.8227648307363" lon="9.037130579870126" labelTopic="rivers/pegel-online/OSTE/BELUM" />
+  <Marker lat="53.8227648307363" lon="9.037130579870126" labelTopic="rivers/pegel-online/OSTE/BELUM/measurementValue" />
 </WorldMap>

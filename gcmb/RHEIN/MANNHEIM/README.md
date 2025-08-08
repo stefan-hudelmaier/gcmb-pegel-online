@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/MANNHEIM/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="49.48394001150683" lon="8.455165019509021" labelTopic="rivers/pegel-online/RHEIN/MANNHEIM" />
+  <Marker lat="49.48394001150683" lon="8.455165019509021" labelTopic="rivers/pegel-online/RHEIN/MANNHEIM/measurementValue" />
 </WorldMap>

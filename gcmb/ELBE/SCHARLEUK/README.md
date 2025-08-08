@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/SCHARLEUK/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="52.9569692191173" lon="11.83755792821885" labelTopic="rivers/pegel-online/ELBE/SCHARLEUK" />
+  <Marker lat="52.9569692191173" lon="11.83755792821885" labelTopic="rivers/pegel-online/ELBE/SCHARLEUK/measurementValue" />
 </WorldMap>

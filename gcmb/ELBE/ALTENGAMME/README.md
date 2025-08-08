@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/ALTENGAMME/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="53.43084360116554" lon="10.296789949355059" labelTopic="rivers/pegel-online/ELBE/ALTENGAMME" />
+  <Marker lat="53.43084360116554" lon="10.296789949355059" labelTopic="rivers/pegel-online/ELBE/ALTENGAMME/measurementValue" />
 </WorldMap>

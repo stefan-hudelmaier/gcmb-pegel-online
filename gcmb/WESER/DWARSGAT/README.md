@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WESER/DWARSGAT/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="53.71863632334093" lon="8.30761553147678" labelTopic="rivers/pegel-online/WESER/DWARSGAT" />
+  <Marker lat="53.71863632334093" lon="8.30761553147678" labelTopic="rivers/pegel-online/WESER/DWARSGAT/measurementValue" />
 </WorldMap>

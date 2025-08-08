@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/HOW/BORGSDORF/measurement
 ## Location
 
 <WorldMap>
-  <Marker lat="52.70048541512112" lon="13.251248021218911" labelTopic="rivers/pegel-online/HOW/BORGSDORF" />
+  <Marker lat="52.70048541512112" lon="13.251248021218911" labelTopic="rivers/pegel-online/HOW/BORGSDORF/measurementValue" />
 </WorldMap>

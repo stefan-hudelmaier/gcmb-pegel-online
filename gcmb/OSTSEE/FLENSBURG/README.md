@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/OSTSEE/FLENSBURG/measurem
 ## Location
 
 <WorldMap>
-  <Marker lat="54.795056780405034" lon="9.43301766621292" labelTopic="rivers/pegel-online/OSTSEE/FLENSBURG" />
+  <Marker lat="54.795056780405034" lon="9.43301766621292" labelTopic="rivers/pegel-online/OSTSEE/FLENSBURG/measurementValue" />
 </WorldMap>

@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/EMS/LEERORT/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="53.21533516511305" lon="7.42619080273335" labelTopic="rivers/pegel-online/EMS/LEERORT" />
+  <Marker lat="53.21533516511305" lon="7.42619080273335" labelTopic="rivers/pegel-online/EMS/LEERORT/measurementValue" />
 </WorldMap>

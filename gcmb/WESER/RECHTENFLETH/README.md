@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WESER/RECHTENFLETH/measur
 ## Location
 
 <WorldMap>
-  <Marker lat="53.38116191381195" lon="8.500553873494539" labelTopic="rivers/pegel-online/WESER/RECHTENFLETH" />
+  <Marker lat="53.38116191381195" lon="8.500553873494539" labelTopic="rivers/pegel-online/WESER/RECHTENFLETH/measurementValue" />
 </WorldMap>

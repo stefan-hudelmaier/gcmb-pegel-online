@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WESER/PORTA/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="52.248709457324495" lon="8.922040753864895" labelTopic="rivers/pegel-online/WESER/PORTA" />
+  <Marker lat="52.248709457324495" lon="8.922040753864895" labelTopic="rivers/pegel-online/WESER/PORTA/measurementValue" />
 </WorldMap>

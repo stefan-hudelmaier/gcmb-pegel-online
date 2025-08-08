@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WESER/HOYA/measurementVal
 ## Location
 
 <WorldMap>
-  <Marker lat="52.80098423584035" lon="9.146923933365557" labelTopic="rivers/pegel-online/WESER/HOYA" />
+  <Marker lat="52.80098423584035" lon="9.146923933365557" labelTopic="rivers/pegel-online/WESER/HOYA/measurementValue" />
 </WorldMap>

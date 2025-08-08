@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/HETLINGEN/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="53.609411339997216" lon="9.584318424577651" labelTopic="rivers/pegel-online/ELBE/HETLINGEN" />
+  <Marker lat="53.609411339997216" lon="9.584318424577651" labelTopic="rivers/pegel-online/ELBE/HETLINGEN/measurementValue" />
 </WorldMap>

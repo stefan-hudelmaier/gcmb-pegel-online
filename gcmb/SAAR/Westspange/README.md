@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/SAAR/Westspange/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="49.23661007163004" lon="6.980388994126971" labelTopic="rivers/pegel-online/SAAR/Westspange" />
+  <Marker lat="49.23661007163004" lon="6.980388994126971" labelTopic="rivers/pegel-online/SAAR/Westspange/measurementValue" />
 </WorldMap>

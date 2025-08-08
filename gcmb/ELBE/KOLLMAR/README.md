@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/KOLLMAR/measurementV
 ## Location
 
 <WorldMap>
-  <Marker lat="53.73112347206413" lon="9.459761691832878" labelTopic="rivers/pegel-online/ELBE/KOLLMAR" />
+  <Marker lat="53.73112347206413" lon="9.459761691832878" labelTopic="rivers/pegel-online/ELBE/KOLLMAR/measurementValue" />
 </WorldMap>

@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/MAIN/FAULBACH/measurement
 ## Location
 
 <WorldMap>
-  <Marker lat="49.78498546319333" lon="9.438827050517723" labelTopic="rivers/pegel-online/MAIN/FAULBACH" />
+  <Marker lat="49.78498546319333" lon="9.438827050517723" labelTopic="rivers/pegel-online/MAIN/FAULBACH/measurementValue" />
 </WorldMap>

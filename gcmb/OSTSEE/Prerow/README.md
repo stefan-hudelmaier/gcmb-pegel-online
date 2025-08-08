@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/OSTSEE/Prerow/measurement
 ## Location
 
 <WorldMap>
-  <Marker lat="54.45899478838402" lon="12.571819692377286" labelTopic="rivers/pegel-online/OSTSEE/Prerow" />
+  <Marker lat="54.45899478838402" lon="12.571819692377286" labelTopic="rivers/pegel-online/OSTSEE/Prerow/measurementValue" />
 </WorldMap>

@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/MEW/WAREN/measurementValu
 ## Location
 
 <WorldMap>
-  <Marker lat="53.51437997457276" lon="12.674194169225105" labelTopic="rivers/pegel-online/MEW/WAREN" />
+  <Marker lat="53.51437997457276" lon="12.674194169225105" labelTopic="rivers/pegel-online/MEW/WAREN/measurementValue" />
 </WorldMap>

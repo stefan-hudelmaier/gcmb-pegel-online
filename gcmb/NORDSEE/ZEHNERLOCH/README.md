@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/NORDSEE/ZEHNERLOCH/measur
 ## Location
 
 <WorldMap>
-  <Marker lat="53.95550856446187" lon="8.658229962288054" labelTopic="rivers/pegel-online/NORDSEE/ZEHNERLOCH" />
+  <Marker lat="53.95550856446187" lon="8.658229962288054" labelTopic="rivers/pegel-online/NORDSEE/ZEHNERLOCH/measurementValue" />
 </WorldMap>

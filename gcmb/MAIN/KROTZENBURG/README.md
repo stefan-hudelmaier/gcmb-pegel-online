@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/MAIN/KROTZENBURG/measurem
 ## Location
 
 <WorldMap>
-  <Marker lat="50.079716791814725" lon="8.953596258141463" labelTopic="rivers/pegel-online/MAIN/KROTZENBURG" />
+  <Marker lat="50.079716791814725" lon="8.953596258141463" labelTopic="rivers/pegel-online/MAIN/KROTZENBURG/measurementValue" />
 </WorldMap>

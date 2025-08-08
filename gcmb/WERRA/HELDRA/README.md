@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WERRA/HELDRA/measurementV
 ## Location
 
 <WorldMap>
-  <Marker lat="51.12500849224803" lon="10.196998244947784" labelTopic="rivers/pegel-online/WERRA/HELDRA" />
+  <Marker lat="51.12500849224803" lon="10.196998244947784" labelTopic="rivers/pegel-online/WERRA/HELDRA/measurementValue" />
 </WorldMap>

@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/Basel-Rheinhalle/me
 ## Location
 
 <WorldMap>
-  <Marker lat="47.55948614198532" lon="7.616666024691215" labelTopic="rivers/pegel-online/RHEIN/Basel-Rheinhalle" />
+  <Marker lat="47.55948614198532" lon="7.616666024691215" labelTopic="rivers/pegel-online/RHEIN/Basel-Rheinhalle/measurementValue" />
 </WorldMap>

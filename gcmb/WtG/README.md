@@ -2,5 +2,5 @@
 
 List of measuring points:
 
-* MARIENTHAL OP: <Value topic="rivers/pegel-online/WtG/MARIENTHAL_OP/measurementValue"/> cm
-* MARIENTHAL UP: <Value topic="rivers/pegel-online/WtG/MARIENTHAL_UP/measurementValue"/> cm
+* [MARIENTHAL OP](./MARIENTHAL OP): <Value topic="rivers/pegel-online/WtG/MARIENTHAL-OP/measurementValue"/> cm
+* [MARIENTHAL UP](./MARIENTHAL UP): <Value topic="rivers/pegel-online/WtG/MARIENTHAL-UP/measurementValue"/> cm

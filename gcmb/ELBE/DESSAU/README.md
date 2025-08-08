@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/DESSAU/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="51.856888350666324" lon="12.22327683144822" labelTopic="rivers/pegel-online/ELBE/DESSAU" />
+  <Marker lat="51.856888350666324" lon="12.22327683144822" labelTopic="rivers/pegel-online/ELBE/DESSAU/measurementValue" />
 </WorldMap>

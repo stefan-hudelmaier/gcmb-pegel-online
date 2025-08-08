@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/BRAUBACH/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="50.270501106126765" lon="7.64566743097512" labelTopic="rivers/pegel-online/RHEIN/BRAUBACH" />
+  <Marker lat="50.270501106126765" lon="7.64566743097512" labelTopic="rivers/pegel-online/RHEIN/BRAUBACH/measurementValue" />
 </WorldMap>

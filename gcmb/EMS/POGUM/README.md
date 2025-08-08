@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/EMS/POGUM/measurementValu
 ## Location
 
 <WorldMap>
-  <Marker lat="53.32135064900048" lon="7.259801109021893" labelTopic="rivers/pegel-online/EMS/POGUM" />
+  <Marker lat="53.32135064900048" lon="7.259801109021893" labelTopic="rivers/pegel-online/EMS/POGUM/measurementValue" />
 </WorldMap>

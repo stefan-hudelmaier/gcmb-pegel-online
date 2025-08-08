@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/LEINE/HERRENHAUSEN/measur
 ## Location
 
 <WorldMap>
-  <Marker lat="52.38806781246802" lon="9.676062044544127" labelTopic="rivers/pegel-online/LEINE/HERRENHAUSEN" />
+  <Marker lat="52.38806781246802" lon="9.676062044544127" labelTopic="rivers/pegel-online/LEINE/HERRENHAUSEN/measurementValue" />
 </WorldMap>

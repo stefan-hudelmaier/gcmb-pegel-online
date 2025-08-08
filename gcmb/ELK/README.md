@@ -2,6 +2,6 @@
 
 List of measuring points:
 
-* BÜSSAU UP: <Value topic="rivers/pegel-online/ELK/BÜSSAU_UP/measurementValue"/> cm
-* DONNERSCHLEUSE OP: <Value topic="rivers/pegel-online/ELK/DONNERSCHLEUSE_OP/measurementValue"/> cm
-* MÖLLN: <Value topic="rivers/pegel-online/ELK/MÖLLN/measurementValue"/> cm
+* [BÜSSAU UP](./BÜSSAU UP): <Value topic="rivers/pegel-online/ELK/BUESSAU-UP/measurementValue"/> cm
+* [DONNERSCHLEUSE OP](./DONNERSCHLEUSE OP): <Value topic="rivers/pegel-online/ELK/DONNERSCHLEUSE-OP/measurementValue"/> cm
+* [MÖLLN](./MÖLLN): <Value topic="rivers/pegel-online/ELK/MOELLN/measurementValue"/> cm

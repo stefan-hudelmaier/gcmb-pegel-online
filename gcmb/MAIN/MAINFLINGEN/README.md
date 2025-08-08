@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/MAIN/MAINFLINGEN/measurem
 ## Location
 
 <WorldMap>
-  <Marker lat="50.01536475999318" lon="9.033733207247224" labelTopic="rivers/pegel-online/MAIN/MAINFLINGEN" />
+  <Marker lat="50.01536475999318" lon="9.033733207247224" labelTopic="rivers/pegel-online/MAIN/MAINFLINGEN/measurementValue" />
 </WorldMap>

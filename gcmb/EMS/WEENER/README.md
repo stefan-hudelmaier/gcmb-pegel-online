@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/EMS/WEENER/measurementVal
 ## Location
 
 <WorldMap>
-  <Marker lat="53.16118800544591" lon="7.371913437651044" labelTopic="rivers/pegel-online/EMS/WEENER" />
+  <Marker lat="53.16118800544591" lon="7.371913437651044" labelTopic="rivers/pegel-online/EMS/WEENER/measurementValue" />
 </WorldMap>

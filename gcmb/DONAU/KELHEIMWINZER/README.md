@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/DONAU/KELHEIMWINZER/measu
 ## Location
 
 <WorldMap>
-  <Marker lat="48.91185797534402" lon="11.932060187383781" labelTopic="rivers/pegel-online/DONAU/KELHEIMWINZER" />
+  <Marker lat="48.91185797534402" lon="11.932060187383781" labelTopic="rivers/pegel-online/DONAU/KELHEIMWINZER/measurementValue" />
 </WorldMap>

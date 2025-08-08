@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/DONAU/HOFKIRCHEN/measurem
 ## Location
 
 <WorldMap>
-  <Marker lat="48.67667502946274" lon="13.115154340070292" labelTopic="rivers/pegel-online/DONAU/HOFKIRCHEN" />
+  <Marker lat="48.67667502946274" lon="13.115154340070292" labelTopic="rivers/pegel-online/DONAU/HOFKIRCHEN/measurementValue" />
 </WorldMap>

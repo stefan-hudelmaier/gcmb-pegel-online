@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ALLER/CELLE/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="52.62270553213209" lon="10.062164093638698" labelTopic="rivers/pegel-online/ALLER/CELLE" />
+  <Marker lat="52.62270553213209" lon="10.062164093638698" labelTopic="rivers/pegel-online/ALLER/CELLE/measurementValue" />
 </WorldMap>

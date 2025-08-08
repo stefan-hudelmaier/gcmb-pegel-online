@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WESER/LIEBENAU/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="52.59420631611364" lon="9.112771601163026" labelTopic="rivers/pegel-online/WESER/LIEBENAU" />
+  <Marker lat="52.59420631611364" lon="9.112771601163026" labelTopic="rivers/pegel-online/WESER/LIEBENAU/measurementValue" />
 </WorldMap>

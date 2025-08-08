@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/OSTE/HECHTHAUSEN/measurem
 ## Location
 
 <WorldMap>
-  <Marker lat="53.64052585091138" lon="9.2527696240458" labelTopic="rivers/pegel-online/OSTE/HECHTHAUSEN" />
+  <Marker lat="53.64052585091138" lon="9.2527696240458" labelTopic="rivers/pegel-online/OSTE/HECHTHAUSEN/measurementValue" />
 </WorldMap>

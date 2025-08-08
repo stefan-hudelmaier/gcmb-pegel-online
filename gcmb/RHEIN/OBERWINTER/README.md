@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/OBERWINTER/measurem
 ## Location
 
 <WorldMap>
-  <Marker lat="50.613690449289486" lon="7.210222050979757" labelTopic="rivers/pegel-online/RHEIN/OBERWINTER" />
+  <Marker lat="50.613690449289486" lon="7.210222050979757" labelTopic="rivers/pegel-online/RHEIN/OBERWINTER/measurementValue" />
 </WorldMap>

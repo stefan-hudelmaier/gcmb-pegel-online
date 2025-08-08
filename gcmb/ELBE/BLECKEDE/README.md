@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/BLECKEDE/measurement
 ## Location
 
 <WorldMap>
-  <Marker lat="53.2950831392085" lon="10.735002069366594" labelTopic="rivers/pegel-online/ELBE/BLECKEDE" />
+  <Marker lat="53.2950831392085" lon="10.735002069366594" labelTopic="rivers/pegel-online/ELBE/BLECKEDE/measurementValue" />
 </WorldMap>

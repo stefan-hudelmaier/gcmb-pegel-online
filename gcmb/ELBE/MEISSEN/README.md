@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/MEISSEN/measurementV
 ## Location
 
 <WorldMap>
-  <Marker lat="51.16440557554545" lon="13.475467710324812" labelTopic="rivers/pegel-online/ELBE/MEISSEN" />
+  <Marker lat="51.16440557554545" lon="13.475467710324812" labelTopic="rivers/pegel-online/ELBE/MEISSEN/measurementValue" />
 </WorldMap>

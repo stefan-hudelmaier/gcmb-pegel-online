@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/MOSEL/COCHEM/measurementV
 ## Location
 
 <WorldMap>
-  <Marker lat="50.14451467319261" lon="7.167665994277785" labelTopic="rivers/pegel-online/MOSEL/COCHEM" />
+  <Marker lat="50.14451467319261" lon="7.167665994277785" labelTopic="rivers/pegel-online/MOSEL/COCHEM/measurementValue" />
 </WorldMap>

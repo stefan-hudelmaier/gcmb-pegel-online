@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/BOIZENBURG/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="53.37546858798372" lon="10.717767373387286" labelTopic="rivers/pegel-online/ELBE/BOIZENBURG" />
+  <Marker lat="53.37546858798372" lon="10.717767373387286" labelTopic="rivers/pegel-online/ELBE/BOIZENBURG/measurementValue" />
 </WorldMap>

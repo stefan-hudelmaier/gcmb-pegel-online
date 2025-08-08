@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/STORKAU/measurementV
 ## Location
 
 <WorldMap>
-  <Marker lat="52.610404798598815" lon="12.00248266741288" labelTopic="rivers/pegel-online/ELBE/STORKAU" />
+  <Marker lat="52.610404798598815" lon="12.00248266741288" labelTopic="rivers/pegel-online/ELBE/STORKAU/measurementValue" />
 </WorldMap>

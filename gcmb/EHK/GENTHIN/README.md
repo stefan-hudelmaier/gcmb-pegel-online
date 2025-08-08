@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/EHK/GENTHIN/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="52.41085682161222" lon="12.140021546748292" labelTopic="rivers/pegel-online/EHK/GENTHIN" />
+  <Marker lat="52.41085682161222" lon="12.140021546748292" labelTopic="rivers/pegel-online/EHK/GENTHIN/measurementValue" />
 </WorldMap>

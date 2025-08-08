@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/MAIN/WERTHEIM/measurement
 ## Location
 
 <WorldMap>
-  <Marker lat="49.76094493096208" lon="9.518303910797993" labelTopic="rivers/pegel-online/MAIN/WERTHEIM" />
+  <Marker lat="49.76094493096208" lon="9.518303910797993" labelTopic="rivers/pegel-online/MAIN/WERTHEIM/measurementValue" />
 </WorldMap>

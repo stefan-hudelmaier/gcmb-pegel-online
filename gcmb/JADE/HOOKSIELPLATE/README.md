@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/JADE/HOOKSIELPLATE/measur
 ## Location
 
 <WorldMap>
-  <Marker lat="53.669165119871074" lon="8.148590233830717" labelTopic="rivers/pegel-online/JADE/HOOKSIELPLATE" />
+  <Marker lat="53.669165119871074" lon="8.148590233830717" labelTopic="rivers/pegel-online/JADE/HOOKSIELPLATE/measurementValue" />
 </WorldMap>

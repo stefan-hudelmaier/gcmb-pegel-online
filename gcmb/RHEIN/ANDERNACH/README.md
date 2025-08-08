@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/ANDERNACH/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="50.443390191596244" lon="7.392055788752453" labelTopic="rivers/pegel-online/RHEIN/ANDERNACH" />
+  <Marker lat="50.443390191596244" lon="7.392055788752453" labelTopic="rivers/pegel-online/RHEIN/ANDERNACH/measurementValue" />
 </WorldMap>

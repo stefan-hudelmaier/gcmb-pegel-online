@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/EDER/AFFOLDERN/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="51.16414086575071" lon="9.084726303618202" labelTopic="rivers/pegel-online/EDER/AFFOLDERN" />
+  <Marker lat="51.16414086575071" lon="9.084726303618202" labelTopic="rivers/pegel-online/EDER/AFFOLDERN/measurementValue" />
 </WorldMap>

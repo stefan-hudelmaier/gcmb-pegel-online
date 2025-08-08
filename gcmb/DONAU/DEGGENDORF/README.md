@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/DONAU/DEGGENDORF/measurem
 ## Location
 
 <WorldMap>
-  <Marker lat="48.824943730974475" lon="12.962349954256105" labelTopic="rivers/pegel-online/DONAU/DEGGENDORF" />
+  <Marker lat="48.824943730974475" lon="12.962349954256105" labelTopic="rivers/pegel-online/DONAU/DEGGENDORF/measurementValue" />
 </WorldMap>

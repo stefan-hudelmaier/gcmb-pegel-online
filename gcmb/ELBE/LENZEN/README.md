@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/LENZEN/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="53.07999300771177" lon="11.455945648065997" labelTopic="rivers/pegel-online/ELBE/LENZEN" />
+  <Marker lat="53.07999300771177" lon="11.455945648065997" labelTopic="rivers/pegel-online/ELBE/LENZEN/measurementValue" />
 </WorldMap>

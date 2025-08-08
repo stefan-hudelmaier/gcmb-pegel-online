@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/ARTLENBURG/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="53.37617386385017" lon="10.489216126379299" labelTopic="rivers/pegel-online/ELBE/ARTLENBURG" />
+  <Marker lat="53.37617386385017" lon="10.489216126379299" labelTopic="rivers/pegel-online/ELBE/ARTLENBURG/measurementValue" />
 </WorldMap>

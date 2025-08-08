@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/BUNTHAUS/measurement
 ## Location
 
 <WorldMap>
-  <Marker lat="53.46141377244459" lon="10.064017807378915" labelTopic="rivers/pegel-online/ELBE/BUNTHAUS" />
+  <Marker lat="53.46141377244459" lon="10.064017807378915" labelTopic="rivers/pegel-online/ELBE/BUNTHAUS/measurementValue" />
 </WorldMap>

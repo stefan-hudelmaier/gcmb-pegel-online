@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/NECKAR/Plochingen/measure
 ## Location
 
 <WorldMap>
-  <Marker lat="48.70743408544061" lon="9.419189570661873" labelTopic="rivers/pegel-online/NECKAR/Plochingen" />
+  <Marker lat="48.70743408544061" lon="9.419189570661873" labelTopic="rivers/pegel-online/NECKAR/Plochingen/measurementValue" />
 </WorldMap>

@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WESER/PETERSHAGEN/measure
 ## Location
 
 <WorldMap>
-  <Marker lat="52.382338419727475" lon="8.970777603262103" labelTopic="rivers/pegel-online/WESER/PETERSHAGEN" />
+  <Marker lat="52.382338419727475" lon="8.970777603262103" labelTopic="rivers/pegel-online/WESER/PETERSHAGEN/measurementValue" />
 </WorldMap>

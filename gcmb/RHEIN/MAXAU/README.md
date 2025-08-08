@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/RHEIN/MAXAU/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="49.0389774795334" lon="8.305563766511732" labelTopic="rivers/pegel-online/RHEIN/MAXAU" />
+  <Marker lat="49.0389774795334" lon="8.305563766511732" labelTopic="rivers/pegel-online/RHEIN/MAXAU/measurementValue" />
 </WorldMap>

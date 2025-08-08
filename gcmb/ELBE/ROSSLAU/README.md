@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/ROSSLAU/measurementV
 ## Location
 
 <WorldMap>
-  <Marker lat="51.88140737506392" lon="12.236540981164822" labelTopic="rivers/pegel-online/ELBE/ROSSLAU" />
+  <Marker lat="51.88140737506392" lon="12.236540981164822" labelTopic="rivers/pegel-online/ELBE/ROSSLAU/measurementValue" />
 </WorldMap>

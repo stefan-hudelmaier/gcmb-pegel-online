@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WESER/NIENBURG/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="52.64415327865737" lon="9.204659197983004" labelTopic="rivers/pegel-online/WESER/NIENBURG" />
+  <Marker lat="52.64415327865737" lon="9.204659197983004" labelTopic="rivers/pegel-online/WESER/NIENBURG/measurementValue" />
 </WorldMap>

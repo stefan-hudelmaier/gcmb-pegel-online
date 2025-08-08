@@ -2,5 +2,5 @@
 
 List of measuring points:
 
-* KARNIN: <Value topic="rivers/pegel-online/OSPH/KARNIN/measurementValue"/> cm
-* UECKERMÜNDE: <Value topic="rivers/pegel-online/OSPH/UECKERMÜNDE/measurementValue"/> cm
+* [KARNIN](./KARNIN): <Value topic="rivers/pegel-online/OSPH/KARNIN/measurementValue"/> cm
+* [UECKERMÜNDE](./UECKERMÜNDE): <Value topic="rivers/pegel-online/OSPH/UECKERMUENDE/measurementValue"/> cm

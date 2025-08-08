@@ -2,6 +2,5 @@
 
 List of measuring points:
 
-* HERRENDURCHSTICH: <Value topic="rivers/pegel-online/TRAVE/Herrendurchstich/measurementValue"/> cm
-* LÜBECK-BAUHOF: <Value topic="rivers/pegel-online/TRAVE/LÜBECK-BAUHOF/measurementValue"/> cm
-* TRAVEMÜNDE: <Value topic="rivers/pegel-online/TRAVE/TRAVEMÜNDE/measurementValue"/> cm
+* [LÜBECK-BAUHOF](./LÜBECK-BAUHOF): <Value topic="rivers/pegel-online/TRAVE/LUEBECK-BAUHOF/measurementValue"/> cm
+* [TRAVEMÜNDE](./TRAVEMÜNDE): <Value topic="rivers/pegel-online/TRAVE/TRAVEMUENDE/measurementValue"/> cm

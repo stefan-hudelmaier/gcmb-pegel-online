@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/OSTSEE/SCHLESWIG/measurem
 ## Location
 
 <WorldMap>
-  <Marker lat="54.51143169392662" lon="9.569058518839194" labelTopic="rivers/pegel-online/OSTSEE/SCHLESWIG" />
+  <Marker lat="54.51143169392662" lon="9.569058518839194" labelTopic="rivers/pegel-online/OSTSEE/SCHLESWIG/measurementValue" />
 </WorldMap>

@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/WESER/OSLEBSHAUSEN/measur
 ## Location
 
 <WorldMap>
-  <Marker lat="53.11979685984901" lon="8.712215483777376" labelTopic="rivers/pegel-online/WESER/OSLEBSHAUSEN" />
+  <Marker lat="53.11979685984901" lon="8.712215483777376" labelTopic="rivers/pegel-online/WESER/OSLEBSHAUSEN/measurementValue" />
 </WorldMap>

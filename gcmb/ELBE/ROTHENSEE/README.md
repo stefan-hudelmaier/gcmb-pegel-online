@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/ROTHENSEE/measuremen
 ## Location
 
 <WorldMap>
-  <Marker lat="52.1809527613989" lon="11.68265328901543" labelTopic="rivers/pegel-online/ELBE/ROTHENSEE" />
+  <Marker lat="52.1809527613989" lon="11.68265328901543" labelTopic="rivers/pegel-online/ELBE/ROTHENSEE/measurementValue" />
 </WorldMap>

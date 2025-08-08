@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/DONAU/VILSHOFEN/measureme
 ## Location
 
 <WorldMap>
-  <Marker lat="48.63729723753345" lon="13.182429265048121" labelTopic="rivers/pegel-online/DONAU/VILSHOFEN" />
+  <Marker lat="48.63729723753345" lon="13.182429265048121" labelTopic="rivers/pegel-online/DONAU/VILSHOFEN/measurementValue" />
 </WorldMap>

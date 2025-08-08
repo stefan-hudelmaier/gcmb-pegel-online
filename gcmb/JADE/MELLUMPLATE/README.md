@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/JADE/MELLUMPLATE/measurem
 ## Location
 
 <WorldMap>
-  <Marker lat="53.77171363311905" lon="8.092507447705561" labelTopic="rivers/pegel-online/JADE/MELLUMPLATE" />
+  <Marker lat="53.77171363311905" lon="8.092507447705561" labelTopic="rivers/pegel-online/JADE/MELLUMPLATE/measurementValue" />
 </WorldMap>

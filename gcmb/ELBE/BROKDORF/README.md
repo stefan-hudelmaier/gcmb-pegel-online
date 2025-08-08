@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ELBE/BROKDORF/measurement
 ## Location
 
 <WorldMap>
-  <Marker lat="53.86270350726209" lon="9.316029583340883" labelTopic="rivers/pegel-online/ELBE/BROKDORF" />
+  <Marker lat="53.86270350726209" lon="9.316029583340883" labelTopic="rivers/pegel-online/ELBE/BROKDORF/measurementValue" />
 </WorldMap>

@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ODER/KIENITZ/measurementV
 ## Location
 
 <WorldMap>
-  <Marker lat="52.680027684777336" lon="14.433642490058999" labelTopic="rivers/pegel-online/ODER/KIENITZ" />
+  <Marker lat="52.680027684777336" lon="14.433642490058999" labelTopic="rivers/pegel-online/ODER/KIENITZ/measurementValue" />
 </WorldMap>

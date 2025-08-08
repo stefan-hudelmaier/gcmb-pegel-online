@@ -11,5 +11,5 @@ Current measurement: <Value topic="rivers/pegel-online/ALLER/EITZE/measurementVa
 ## Location
 
 <WorldMap>
-  <Marker lat="52.90406544743417" lon="9.276769435375872" labelTopic="rivers/pegel-online/ALLER/EITZE" />
+  <Marker lat="52.90406544743417" lon="9.276769435375872" labelTopic="rivers/pegel-online/ALLER/EITZE/measurementValue" />
 </WorldMap>

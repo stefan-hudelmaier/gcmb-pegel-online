@@ -2,4 +2,4 @@
 
 List of measuring points:
 
-* HOHENSAATEN OST AP: <Value topic="rivers/pegel-online/VKH/HOHENSAATEN_OST_AP/measurementValue"/> cm
+* [HOHENSAATEN OST AP](./HOHENSAATEN OST AP): <Value topic="rivers/pegel-online/VKH/HOHENSAATEN-OST-AP/measurementValue"/> cm
