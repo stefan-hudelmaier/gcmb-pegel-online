@@ -15,7 +15,7 @@ from api_client import ApiClient
 # Environment variables
 GCMB_ORG = os.environ.get('GCMB_ORG', 'rivers')
 GCMB_PROJECT = os.environ.get('GCMB_PROJECT', 'pegel-online')
-FETCH_INTERVAL = int(os.environ.get('FETCH_INTERVAL', '300'))  # Default: 5 minutes
+FETCH_INTERVAL = int(os.environ.get('FETCH_INTERVAL', '900'))  # Default: 15 minutes
 LOG_LEVEL = os.environ.get('LOG_LEVEL', 'INFO')
 
 # Configure logging
