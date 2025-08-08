@@ -65,6 +65,8 @@ def generate_main_readme(measurements: List[Dict[str, Any]]):
     # Generate README content
     content = "# Pegel Online\n\n"
 
+    content += "Live water levels of German waterways.\n\n"
+
     content += "## Origin of data\n\n"
     content += "This data is originally provided by the [Wasserstrassen- und Schifffahrtsverwaltung des Bundes](https://www.gdws.wsv.bund.de/).\n"
     content += "It is published under the license: [DL-DE->Zero-2.0](https://www.govdata.de/dl-de/zero-2-0)\n\n"

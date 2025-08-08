@@ -1,5 +1,7 @@
 # Pegel Online
 
+Live water levels of German waterways.
+
 ## Origin of data
 
 This data is originally provided by the [Wasserstrassen- und Schifffahrtsverwaltung des Bundes](https://www.gdws.wsv.bund.de/).
