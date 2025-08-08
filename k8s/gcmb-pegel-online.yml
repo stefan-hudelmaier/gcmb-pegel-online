@@ -1,0 +1,62 @@
+apiVersion: image.toolkit.fluxcd.io/v1beta2
+kind: ImageRepository
+metadata:
+  name: gcmb-pegel-online
+  namespace: flux-system
+spec:
+  image: ghcr.io/stefan-hudelmaier/gcmb-pegel-online
+  interval: 5m0s
+---
+apiVersion: image.toolkit.fluxcd.io/v1beta2
+kind: ImagePolicy
+metadata:
+  name: gcmb-pegel-online
+  namespace: flux-system
+spec:
+  imageRepositoryRef:
+    name: gcmb-pegel-online
+  filterTags:
+    pattern: '^main-[a-fA-F0-9]+-(?P<ts>.*)'
+    extract: '$ts'
+  policy:
+    numerical:
+      order: asc
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: gcmb-pegel-online
+  namespace: default
+spec:
+  selector:
+    matchLabels:
+      app: gcmb-pegel-online
+  template:
+    metadata:
+      labels:
+        app: gcmb-pegel-online
+    spec:
+      containers:
+        - name: gcmb-pegel-online
+          image: ghcr.io/stefan-hudelmaier/gcmb-pegel-online:main-xxx # {"$imagepolicy": "flux-system:gcmb-pegel-online"}
+          imagePullPolicy: IfNotPresent
+          env:
+            - name: MQTT_USERNAME
+              value: rivers/pegel-online/data-generator
+            - name: MQTT_CLIENT_ID
+              value: rivers/pegel-online/data-generator/pub
+            - name: MQTT_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: gcmb-secrets
+                  key: GCMB_PEGEL_ONLINE_MQTT_PASSWORD
+            - name: MQTT_HOST
+              value: gcmb.io
+            - name: LOG_LEVEL
+              value: INFO
+          resources:
+            requests:
+              memory: 30Mi
+              cpu: 30m
+            limits:
+              memory: 256Mi
