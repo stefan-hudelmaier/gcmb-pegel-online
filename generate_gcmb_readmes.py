@@ -126,7 +126,7 @@ def generate_river_readmes(measurements: List[Dict[str, Any]]):
         for station_shortname, station_data in sorted_stations:
             station_longname = station_data["longname"]
             topic = sanitize_topic(f"{GCMB_ORG}/{GCMB_PROJECT}/{water_shortname}/{station_shortname}/measurementValue")
-            content += f"* [{station_longname}](./{station_shortname}): <Value topic=\"{topic}\"/> cm\n"
+            content += f"* [{station_longname}](./{sanitize_topic(station_shortname)}): <Value topic=\"{topic}\"/> cm\n"
         
         # Write README file
         readme_path = river_dir / "README.md"
