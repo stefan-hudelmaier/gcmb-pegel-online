@@ -64,7 +64,12 @@ def generate_main_readme(measurements: List[Dict[str, Any]]):
     
     # Generate README content
     content = "# Pegel Online\n\n"
-    content += "List of rivers:\n\n"
+
+    content += "## Origin of data\n\n"
+    content += "This data is originally provided by the [Wasserstrassen- und Schifffahrtsverwaltung des Bundes](https://www.gdws.wsv.bund.de/).\n"
+    content += "It is published under the license: [DL-DE->Zero-2.0](https://www.govdata.de/dl-de/zero-2-0)\n\n"
+
+    content += "## List of rivers/waters\n\n"
     
     for shortname, longname in sorted_rivers:
         content += f"* [{longname}](./{sanitize_topic(shortname)})\n"
@@ -121,7 +126,7 @@ def generate_river_readmes(measurements: List[Dict[str, Any]]):
         for station_shortname, station_data in sorted_stations:
             station_longname = station_data["longname"]
             topic = sanitize_topic(f"{GCMB_ORG}/{GCMB_PROJECT}/{water_shortname}/{station_shortname}/measurementValue")
-            content += f"* {station_longname}: <Value topic=\"{topic}\"/> cm\n"
+            content += f"* [{station_longname}](./{station_shortname}): <Value topic=\"{topic}\"/> cm\n"
         
         # Write README file
         readme_path = river_dir / "README.md"
@@ -177,7 +182,7 @@ def generate_station_readmes(measurements: List[Dict[str, Any]]):
         
         content += "## Location\n\n"
         content += "<WorldMap>\n"
-        content += f"  <Marker lat=\"{latitude}\" lon=\"{longitude}\" labelTopic=\"{station_topic}\" />\n"
+        content += f"  <Marker lat=\"{latitude}\" lon=\"{longitude}\" labelTopic=\"{station_topic}/measurementValue\" />\n"
         content += "</WorldMap>\n"
         
         # Write README file

@@ -79,12 +79,12 @@ class ApiClient:
         for station in stations:
             # Skip stations without water information
             if "water" not in station:
-                logger.warning(f"Station {station.get('shortname', 'unknown')} has no water information, skipping")
+                logger.debug(f"Station {station.get('shortname', 'unknown')} has no water information, skipping")
                 continue
                 
             # Skip stations without timeseries
             if "timeseries" not in station or not station["timeseries"]:
-                logger.warning(f"Station {station.get('shortname', 'unknown')} has no timeseries, skipping")
+                logger.debug(f"Station {station.get('shortname', 'unknown')} has no timeseries, skipping")
                 continue
             
             water_shortname = station["water"]["shortname"]
@@ -95,12 +95,18 @@ class ApiClient:
             longitude = station.get("longitude")
             
             for timeseries in station["timeseries"]:
+
+                if timeseries["unit"] != "cm":
+                    logger.debug("Skipping time series that is not in cm")
+                    continue
+
                 # Skip timeseries without current measurement
                 if "currentMeasurement" not in timeseries:
-                    logger.warning(f"Timeseries in station {station_shortname} has no current measurement, skipping")
+                    logger.debug(f"Timeseries in station {station_shortname} has no current measurement, skipping")
                     continue
                 
                 current_measurement = timeseries["currentMeasurement"]
+
                 measurement_value = current_measurement.get("value")
                 state_mnw_mhw = current_measurement.get("stateMnwMhw")
                 state_nsw_hsw = current_measurement.get("stateNswHsw")
